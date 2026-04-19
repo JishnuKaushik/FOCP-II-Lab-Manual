@@ -1,0 +1,24 @@
+/* Q16. A cybersecurity tool verifies prime numbers used in encryption keys. Implement a solution to accept a number and check whether it is prime. */
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int n;
+    cin >> n;
+
+    if(n <= 1) {
+        cout << "Not Prime";
+        return 0;
+    }
+
+    for(int i = 2; i * i <= n; i++) {
+        if(n % i == 0) {
+            cout << "Not Prime";
+            return 0;
+        }
+    }
+
+    cout << "Prime";
+    return 0;
+}
