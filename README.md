@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=C++%20FOCP%20Lab%20Solutions&fontSize=35&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">🚀 C++ FOCP Lab Solutions</h1>
+<h1 align="center">🚀 C++ FOCP Lab Manual Solutions</h1>
 
 <p align="center">
   📘 Fundamentals of Computer Programming (FOCP)  
@@ -88,5 +88,5 @@ g++ filename.cpp -o output
 
 ## 👨‍💻 Author
 
-CSE Student
+Jishnu Kaushik (CSE Student)
 Building strong programming fundamentals 🚀
