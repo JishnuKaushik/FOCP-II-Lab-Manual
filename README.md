@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Compiler-GCC%20%7C%20MinGW-green.svg">
   <img src="https://img.shields.io/badge/Level-Beginner--Friendly-orange.svg">
   <img src="https://img.shields.io/badge/Status-Complete-success.svg">
-  <img src="https://img.shields.io/github/stars/your-username/your-repo?style=social">
+  <img src="https://img.shields.io/github/stars/(https://github.com/JishnuKaushik/FOCP-II-Lab-Manual)">
   <img src="https://img.shields.io/github/forks/your-username/your-repo?style=social">
 </p>
 
